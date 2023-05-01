@@ -10,6 +10,6 @@ Trata-se de um sorteador de numeros.
 <tr>
 <td width="100%">
 <br>
-<img src="https://github.com/jonathanoliveirarocha/NameSorter/blob/main/SAMPLE.png">
+<img src="https://github.com/jonathanoliveirarocha/NameSorter/blob/master/SAMPLE.png">
 </td> 
 </table>
