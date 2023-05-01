@@ -1,8 +1,7 @@
 # Name Sorter
 
-Projeto simples que desenvolvi em uma de minhas aulas no meu curso tecnico de desenvolvimento web. Projeto feito apenas com HTML, CSS e JavaScript. 
-Trata-se de um sorteador de numeros.
 
+Simple project that I developed in one of my classes in my technical web development course. Project made only with HTML, CSS and JavaScript. This is a name sorter.
 
 ### Preview :
 
