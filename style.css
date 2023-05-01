@@ -1,0 +1,33 @@
+body{
+    background: rgb(176, 172, 178);
+    font: normal 15pt Arial;
+    text-align: center;
+    padding: 200px;
+}
+#main{
+    background: #ffffff;
+    width: 500px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: auto; 
+    box-shadow: 3px 5px 8px rgba(50, 48, 50, 0.514);
+    text-align: left;
+}
+
+#addName{
+    background-color: rgb(220, 181, 130);
+    border-radius: 5px;
+    border-color: rgb(220, 181, 130);
+}
+
+#sortBtn{
+    background-color: rgb(173, 212, 168);
+    border-radius: 5px;
+    border-color: rgb(181, 241, 186);
+}
+
+#resetBtn{
+    background-color: rgb(227, 154, 154);
+    border-radius: 5px;
+    border-color: rgb(227, 154, 154);
+}

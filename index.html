@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Name Sorter</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"></script>
+</head>
+<body>
+    
+    <div id="main">
+        <div id="divAddNames">   
+            <h1>Welcome to the Name Sorter</h1>
+            <p>
+                <label for="people">Name: </label>
+                <input id="names" name="people" type="text">
+                <input type="button" id="addName" value="Add" onclick="addName()">
+            </p>
+
+
+
+        </div>
+    
+        <div id="drawnName">
+
+        </div>
+
+        <ol id="nameList">
+        
+        </ol>
+
+        <div id="sort" style="display: none;">
+            <input type="button" value="Sort" id="sortBtn" onclick="sort()">
+        </div>
+        
+        <div id="reset" style="display: none;">
+            <input type="button" id="resetBtn" value="Reset" onclick="reset()">
+        </div>
+        
+    </div>
+    
+</body>
+</html>
